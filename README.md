@@ -5,7 +5,7 @@ Libft is the first project in the study program at School 42 (UNIT Factory).
 The purpose of the project is to introduce to students standard C functions that we will be able to use in our future projects.
 To give a deeper understanding of functions we needed to create our own realization of standard functions.
 
-All standard functions are created in accordance with Norm - the bunch of rules how code should be formatted.
+All functions are created in accordance with Norm - the bunch of rules how code should be formatted.
 
 #### The project consists of 3 main logical parts:
 * Standart Libc functions
