@@ -40,7 +40,7 @@ Makefile has 4 main options:<br/>
 | strcpy | copy strings |
 | strncpy | copy strings size of n |
 | strcat | concatenate strings |
-| strncat | concatenate strings |
+| strncat | concatenate n symbols of one string to another |
 | strlcat | size-bounded string copying and concatenation |
 | strchr | locate character in string |
 | strrchr | locate character in string |
