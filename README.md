@@ -104,3 +104,5 @@ Makefile has 4 main options:<br/>
 | ft_lstmap     | iterates a list lst and applies the function f to each link to create a “fresh” list (using malloc(3)) resulting from the successive applications of f. If the allocation fails, the function returns NULL |
 
 More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
+
+| memchr | locate byte in byte string |
